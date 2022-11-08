@@ -84,7 +84,7 @@ scene("main", () => {
   })
 
 
-  loop(0.4, () => {
+  loop(0.6, () => {
     add([
       sprite("ufo"),
       move(DOWN, 250),
